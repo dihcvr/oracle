@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"w",
+				"windowHeight"
+			],
+			[
+				"wi",
+				"windowWidth"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"c",
+				"clientY"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"CL",
+				"clientH"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"q",
+				"queryAll"
+			],
+			[
+				"query",
+				"queryAll"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"l",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Client24/Desktop/SoulaimaniYassir/fichier1.txt",
+		"/C/Users/Client24/Desktop/ReactJs/Nouveau document texte.txt",
+		"/C/Users/Client24/Desktop/LAKHL_SOULAIMANI_exo1_exo2/exo1.sql",
+		"/C/Users/Client24/Desktop/LAKHL_SOULAIMANI_exo1_exo2/exo2.sql",
+		"/C/Users/Client24/Desktop/ReactJs/index.js",
+		"/C/Users/Client24/Desktop/LAKHL_SOULAIMANI_exo1_exo2/exo2",
+		"/C/Users/Client24/Desktop/exo2",
+		"/C/Users/Client24/Desktop/exo1.sql",
+		"/C/Users/Client24/Desktop/designer.txt",
+		"/C/Users/Public/uml/designer.txt",
+		"/C/Users/Client24/Desktop/App.js",
+		"/C/Users/Client24/Desktop/ReactJs/bundle.js",
+		"/C/Users/Client24/Desktop/Carte.js",
+		"/C/Users/Client24/java/cours/src/cours/game.txt",
+		"/C/Users/Client24/java/cours/testFileWriter.txt",
+		"/C/Users/Client24/java/cours/ficherBis.txt",
+		"/C/Users/Client24/java/cours/game.txt",
+		"/C/Users/Client24/Desktop/Nouveau document texte.txt",
+		"/C/Users/Client24/Desktop/TD_DB",
+		"/C/Users/Client24/Desktop/test/code.js",
+		"/C/Users/Client24/Desktop/doc/test/code.js",
+		"/C/Users/Client24/Desktop/DS1Web/script.js",
+		"/C/Users/Client24/Desktop/s",
+		"/C/Users/Client24/Desktop/test/index.html",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/tt.sql",
+		"/C/Users/Client24/Desktop/DB/TP1/requetes.sql",
+		"/C/Users/Client24/Desktop/DB/Nouveau document texte.txt",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/Type_speed/jsjs.js",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/Type_speed/index.html",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/Type_speed/style.css",
+		"/C/Users/Client24/java/exemplesCours/filename.txt",
+		"/C/Files/dossier/test.txt",
+		"/C/Files/File1.txt",
+		"/C/Files/File3.txt",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/TP02/crono.html",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/TP02/TP02.js",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/TP02/index2.html",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/TP02/index.html",
+		"/C/Users/Client24/Desktop/webdev/index.html.txt",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/Exercices/TP1.js",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/TP02/style.css",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/Exercices/index.html",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/DOM.js",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/job_history.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/employees.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/create.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/jobs.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/departments.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/locations.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/countries.sql",
+		"/C/Users/Client24/Desktop/DB/Oracle/TP1/regions.sql",
+		"/C/Users/Client24/Desktop/TP1/requetes.sql",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/index.html",
+		"/C/Users/Client24/Desktop/webdev/JavaScript/code.js",
+		"/C/Users/Client24/Desktop/webdev/webdev/index.html.txt",
+		"/C/Users/Client24/Desktop/webdev/index.html",
+		"/C/Users/Client24/Desktop/0/index.html",
+		"/C/Users/Client24/Desktop/dev/index.html.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "exo1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
